@@ -1,0 +1,24 @@
+{
+  "name": "create-reason",
+  "version": "0.0.1",
+  "description": "Esy Reason Project Creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordwalke/create-reason.git"
+  },
+  "keywords": [
+    "reasonml",
+    "ocaml",
+    "esy"
+  ],
+  "author": "jordwalke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordwalke/create-reason/issues"
+  },
+  "homepage": "https://github.com/jordwalke/create-reason#readme"
+}
